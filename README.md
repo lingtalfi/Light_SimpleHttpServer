@@ -73,6 +73,10 @@ simple_http_server:
 History Log
 =============
 
+- 1.0.11 -- 2021-05-03
+
+    - Update dependencies to Ling.Light_Events (pushed by SubscribersUtil)
+
 - 1.0.10 -- 2021-05-03
 
     - Update dependencies to Ling.Light_Events (pushed by SubscribersUtil)
