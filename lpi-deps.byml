@@ -47,3 +47,8 @@
     - Ling:ExceptionCodes:1.0.3+
     - Ling:Light:0.70.1+
     - Ling:Light_Events:1.10.0+
+
+1.0.10: 
+    - Ling:ExceptionCodes:1.0.3+
+    - Ling:Light:0.70.2+
+    - Ling:Light_Events:1.10.2+
